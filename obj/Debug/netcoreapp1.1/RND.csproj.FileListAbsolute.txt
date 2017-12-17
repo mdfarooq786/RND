@@ -1,0 +1,8 @@
+C:\Users\Farooq\RND\bin\Debug\netcoreapp1.1\RND.deps.json
+C:\Users\Farooq\RND\bin\Debug\netcoreapp1.1\RND.runtimeconfig.json
+C:\Users\Farooq\RND\bin\Debug\netcoreapp1.1\RND.runtimeconfig.dev.json
+C:\Users\Farooq\RND\bin\Debug\netcoreapp1.1\RND.dll
+C:\Users\Farooq\RND\bin\Debug\netcoreapp1.1\RND.pdb
+C:\Users\Farooq\RND\obj\Debug\netcoreapp1.1\RND.AssemblyInfo.cs
+C:\Users\Farooq\RND\obj\Debug\netcoreapp1.1\RND.dll
+C:\Users\Farooq\RND\obj\Debug\netcoreapp1.1\RND.pdb
